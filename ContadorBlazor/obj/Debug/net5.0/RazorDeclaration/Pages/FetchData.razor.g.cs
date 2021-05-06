@@ -98,7 +98,7 @@ using ContadorBlazor.Data;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 39 "C:\Users\Jean Carlos\source\repos\ContadorBlazor\ContadorBlazor\Pages\FetchData.razor"
+#line 41 "C:\Users\Jean Carlos\source\repos\ContadorBlazor\ContadorBlazor\Pages\FetchData.razor"
        
     private WeatherForecast[] forecasts;
 
